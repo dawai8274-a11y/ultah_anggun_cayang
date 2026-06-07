@@ -1,0 +1,6 @@
+{
+  "name": "Romantic Birthday Experience",
+  "description": "A 3D animated, blue-themed birthday website with a floral theme, interactive 3D flipbook, floating elements, and integrated music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
